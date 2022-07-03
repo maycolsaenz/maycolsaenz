@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/2APfupy3lduF1AamRw/giphy.gif)](https://rishavchanda.io)
+<img alt = "title" width = "1000" height = "200" src = "https://media.giphy.com/media/KpgGm0kbyeoBPzZ97a/giphy.gif">
 <h1 align="center">Hi 👋, I'm Maycol</h1>
 <h3 align="center">A passionate student learning how to code from Costa Rica</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
