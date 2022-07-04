@@ -1,3 +1,9 @@
+<form action="/action_page.php">
+  <label for="img">Select image:</label>
+  <input type="file" id="img" name="img" accept="image/*">
+  <input type="submit">
+</form>
+
 <img alt = "title" width = "1000" height = "200" src = "https://media.giphy.com/media/KpgGm0kbyeoBPzZ97a/giphy.gif">
 <h1 align="center">Hi 👋, I'm Maycol</h1>
 <h3 align="center">A passionate student learning how to code from Costa Rica</h3>
