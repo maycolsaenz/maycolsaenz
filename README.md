@@ -1,10 +1,4 @@
-<form action="/action_page.php">
-  <label for="img">Select image:</label>
-  <input type="file" id="img" name="img" accept="image/*">
-  <input type="submit">
-</form>
-
-<img alt = "title" width = "1000" height = "200" src = "https://media.giphy.com/media/KpgGm0kbyeoBPzZ97a/giphy.gif">
+![Header](./[https://giphy.com/embed/KpgGm0kbyeoBPzZ97a])![New Project2](https://user-images.githubusercontent.com/108108804/177069970-12738288-a74a-49af-a802-d35f3626164e.gif)
 <h1 align="center">Hi 👋, I'm Maycol</h1>
 <h3 align="center">A passionate student learning how to code from Costa Rica</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
