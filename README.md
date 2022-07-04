@@ -1,4 +1,4 @@
-![Header](./[https://giphy.com/embed/KpgGm0kbyeoBPzZ97a])![New Project2](https://user-images.githubusercontent.com/108108804/177069970-12738288-a74a-49af-a802-d35f3626164e.gif)
+![New Project2](https://user-images.githubusercontent.com/108108804/177070388-d876c62a-d77f-47d2-bcfd-d605312edfb9.gif)
 <h1 align="center">Hi 👋, I'm Maycol</h1>
 <h3 align="center">A passionate student learning how to code from Costa Rica</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
