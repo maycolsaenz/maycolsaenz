@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **maycolsaenz@ucr.ac.cr**
 
+- 🌍 My expertise **https://leetcode.com/maycolsj/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
