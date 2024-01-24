@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C**
 
-- 📫 How to reach me **maycolsaenz@ucr.ac.cr**
+- 📫 How to reach me **maycol.saenz@ucr.ac.cr**
 
 - 🌍 My expertise **https://leetcode.com/maycolsj/**
 
